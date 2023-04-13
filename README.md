@@ -1,5 +1,6 @@
 ### Hi there 👋
 Projects I Am Currently Working On
+
 [![Windows-2016-CIS](https://wakatime.com/badge/user/71ac0a32-279a-479b-81d5-06cda7102630/project/3a38de61-e4e0-4015-8b83-ea8a935db366.svg)](https://wakatime.com/badge/user/71ac0a32-279a-479b-81d5-06cda7102630/project/3a38de61-e4e0-4015-8b83-ea8a935db366)
 
 ![](https://komarev.com/ghpvc/?username=mrsteve81)
