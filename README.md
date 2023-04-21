@@ -12,7 +12,7 @@
 | [![][windows-2016-stig-shield]][windows-2016-stig] | [![wakatime](https://wakatime.com/badge/user/71ac0a32-279a-479b-81d5-06cda7102630/project/515d6812-fff2-40fd-b1e2-bd13c0708760.svg)](https://wakatime.com/badge/user/71ac0a32-279a-479b-81d5-06cda7102630/project/515d6812-fff2-40fd-b1e2-bd13c0708760)|
 | [![][windows-2019-cis-shield]][windows-2019-cis]  | [![wakatime](https://wakatime.com/badge/user/71ac0a32-279a-479b-81d5-06cda7102630/project/25231f45-f955-4603-a698-dbd1951e649d.svg)](https://wakatime.com/badge/user/71ac0a32-279a-479b-81d5-06cda7102630/project/25231f45-f955-4603-a698-dbd1951e649d)  |
 | [![][windows-2019-stig-shield]][windows-2019-stig]  |[![wakatime](https://wakatime.com/badge/user/71ac0a32-279a-479b-81d5-06cda7102630/project/d14564f3-d3db-4686-b669-bb748faf6159.svg)](https://wakatime.com/badge/user/71ac0a32-279a-479b-81d5-06cda7102630/project/d14564f3-d3db-4686-b669-bb748faf6159)|
-|  [![][ubuntu20-cis-shield]][ubuntu20-ciss] | [![wakatime](https://wakatime.com/badge/user/71ac0a32-279a-479b-81d5-06cda7102630/project/16e81ed4-d321-4d6e-8575-ff7411ba23f7.svg)](https://wakatime.com/badge/user/71ac0a32-279a-479b-81d5-06cda7102630/project/16e81ed4-d321-4d6e-8575-ff7411ba23f7)|
+|  [![][ubuntu20-cis-shield]][ubuntu20-cis] | [![wakatime](https://wakatime.com/badge/user/71ac0a32-279a-479b-81d5-06cda7102630/project/16e81ed4-d321-4d6e-8575-ff7411ba23f7.svg)](https://wakatime.com/badge/user/71ac0a32-279a-479b-81d5-06cda7102630/project/16e81ed4-d321-4d6e-8575-ff7411ba23f7)|
 
 </br>
 
