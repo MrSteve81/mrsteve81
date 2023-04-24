@@ -4,7 +4,7 @@ name: README STATS UPDATE
 # events but only for the master branch
 on:
   push:
-    branches: [ master ]
+    branches: [ main ]
   schedule:
     # Runs at 12am IST
     - cron: '*/60 * * * *'
