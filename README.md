@@ -16,8 +16,8 @@
 | [![][windows-2019-stig-shield]][windows-2019-stig]  |[![wakatime](https://wakatime.com/badge/user/71ac0a32-279a-479b-81d5-06cda7102630/project/d14564f3-d3db-4686-b669-bb748faf6159.svg)](https://wakatime.com/badge/user/71ac0a32-279a-479b-81d5-06cda7102630/project/d14564f3-d3db-4686-b669-bb748faf6159)|
 | | | 
 | ***Ubuntu Releases*** |
-|  [![][ubuntu20-cis-shield]][ubuntu20-cis] | [![wakatime](https://wakatime.com/badge/user/71ac0a32-279a-479b-81d5-06cda7102630/project/16e81ed4-d321-4d6e-8575-ff7411ba23f7.svg)](https://wakatime.com/badge/user/71ac0a32-279a-479b-81d5-06cda7102630/project/16e81ed4-d321-4d6e-8575-ff7411ba23f7)|
-|[![][ubuntu20-stig-shield]][ubuntu20-stig] | [![wakatime](https://wakatime.com/badge/user/71ac0a32-279a-479b-81d5-06cda7102630/project/3dae2036-e7a2-4582-816e-efac860d688d.svg)](https://wakatime.com/badge/user/71ac0a32-279a-479b-81d5-06cda7102630/project/3dae2036-e7a2-4582-816e-efac860d688d) |
+| [![][ubuntu20-cis-shield]][ubuntu20-cis] | [![wakatime](https://wakatime.com/badge/user/71ac0a32-279a-479b-81d5-06cda7102630/project/16e81ed4-d321-4d6e-8575-ff7411ba23f7.svg)](https://wakatime.com/badge/user/71ac0a32-279a-479b-81d5-06cda7102630/project/16e81ed4-d321-4d6e-8575-ff7411ba23f7)|
+| [![][ubuntu20-stig-shield]][ubuntu20-stig] | [![wakatime](https://wakatime.com/badge/user/71ac0a32-279a-479b-81d5-06cda7102630/project/3dae2036-e7a2-4582-816e-efac860d688d.svg)](https://wakatime.com/badge/user/71ac0a32-279a-479b-81d5-06cda7102630/project/3dae2036-e7a2-4582-816e-efac860d688d)|
 | [![][ubuntu22-cis-shield]][ubuntu22-cis]|[![wakatime](https://wakatime.com/badge/user/71ac0a32-279a-479b-81d5-06cda7102630/project/80604ccf-60f7-483c-ac30-47c9551081e2.svg)](https://wakatime.com/badge/user/71ac0a32-279a-479b-81d5-06cda7102630/project/80604ccf-60f7-483c-ac30-47c9551081e2) |
 | | | 
 | ***RHEL Releases*** |
