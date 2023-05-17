@@ -14,6 +14,7 @@
 | [![][windows-2016-stig-shield]][windows-2016-stig] | [![wakatime](https://wakatime.com/badge/user/71ac0a32-279a-479b-81d5-06cda7102630/project/515d6812-fff2-40fd-b1e2-bd13c0708760.svg)](https://wakatime.com/badge/user/71ac0a32-279a-479b-81d5-06cda7102630/project/515d6812-fff2-40fd-b1e2-bd13c0708760)|
 | [![][windows-2019-cis-shield]][windows-2019-cis]  | [![wakatime](https://wakatime.com/badge/user/71ac0a32-279a-479b-81d5-06cda7102630/project/25231f45-f955-4603-a698-dbd1951e649d.svg)](https://wakatime.com/badge/user/71ac0a32-279a-479b-81d5-06cda7102630/project/25231f45-f955-4603-a698-dbd1951e649d)  |
 | [![][windows-2019-stig-shield]][windows-2019-stig]  |[![wakatime](https://wakatime.com/badge/user/71ac0a32-279a-479b-81d5-06cda7102630/project/d14564f3-d3db-4686-b669-bb748faf6159.svg)](https://wakatime.com/badge/user/71ac0a32-279a-479b-81d5-06cda7102630/project/d14564f3-d3db-4686-b669-bb748faf6159)|
+| [![][windows-2010-stig-shield]][windows-2010-stig]  |[![wakatime](https://wakatime.com/badge/user/71ac0a32-279a-479b-81d5-06cda7102630/project/1feee6ca-3b4a-4efc-90f1-49f73662d1a6.svg)](https://wakatime.com/badge/user/71ac0a32-279a-479b-81d5-06cda7102630/project/1feee6ca-3b4a-4efc-90f1-49f73662d1a6)|
 | | | 
 | ***Ubuntu Releases*** |
 | [![][ubuntu20-cis-shield]][ubuntu20-cis] | [![wakatime](https://wakatime.com/badge/user/71ac0a32-279a-479b-81d5-06cda7102630/project/16e81ed4-d321-4d6e-8575-ff7411ba23f7.svg)](https://wakatime.com/badge/user/71ac0a32-279a-479b-81d5-06cda7102630/project/16e81ed4-d321-4d6e-8575-ff7411ba23f7)|
@@ -36,6 +37,8 @@
 [windows-2019-cis-shield]: https://img.shields.io/badge/Windows--2019--CIS-Repo-blue
 [windows-2019-stig]: https://github.com/ansible-lockdown/Windows-2019-STIG
 [windows-2019-stig-shield]: https://img.shields.io/badge/Windows--2019--STIG-Repo-blue
+[windows-2010-stig]: https://github.com/ansible-lockdown/Windows-2010-STIG
+[windows-2010-stig-shield]: https://img.shields.io/badge/Windows--2010--STIG-Repo-blue
 [ubuntu20-cis]: https://github.com/ansible-lockdown/UBUNTU20-CIS
 [ubuntu20-cis-shield]: https://img.shields.io/badge/Ubuntu20--CIS-Repo-blue
 [ubuntu20-stig]: https://github.com/ansible-lockdown/UBUNTU20-STIG
