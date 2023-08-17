@@ -1,35 +1,42 @@
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=mrsteve81)
-</br>
 
-#### Projects I Am Currently Working On 
-#### Stats Started 04.12.23
-
-
-| Release | Time Worked  |
-|---|---|
-| | | 
-| ***Windows Releases*** |
-| [![][windows-2019-cis-shield]][windows-2019-cis]  | [![wakatime](https://wakatime.com/badge/user/71ac0a32-279a-479b-81d5-06cda7102630/project/25231f45-f955-4603-a698-dbd1951e649d.svg)](https://wakatime.com/badge/user/71ac0a32-279a-479b-81d5-06cda7102630/project/25231f45-f955-4603-a698-dbd1951e649d)  |
-| [![][windows-2019-stig-shield]][windows-2019-stig]  |[![wakatime](https://wakatime.com/badge/user/71ac0a32-279a-479b-81d5-06cda7102630/project/d14564f3-d3db-4686-b669-bb748faf6159.svg)](https://wakatime.com/badge/user/71ac0a32-279a-479b-81d5-06cda7102630/project/d14564f3-d3db-4686-b669-bb748faf6159)|
-| [![][windows-2016-cis-shield]][windows-2016-cis]  |  [![wakatime](https://wakatime.com/badge/user/71ac0a32-279a-479b-81d5-06cda7102630/project/3a38de61-e4e0-4015-8b83-ea8a935db366.svg)](https://wakatime.com/badge/user/71ac0a32-279a-479b-81d5-06cda7102630/project/3a38de61-e4e0-4015-8b83-ea8a935db366) |
-| [![][windows-2016-stig-shield]][windows-2016-stig] | [![wakatime](https://wakatime.com/badge/user/71ac0a32-279a-479b-81d5-06cda7102630/project/515d6812-fff2-40fd-b1e2-bd13c0708760.svg)](https://wakatime.com/badge/user/71ac0a32-279a-479b-81d5-06cda7102630/project/515d6812-fff2-40fd-b1e2-bd13c0708760)|
-| [![][windows-2010-stig-shield]][windows-2010-stig]  |[![wakatime](https://wakatime.com/badge/user/71ac0a32-279a-479b-81d5-06cda7102630/project/1feee6ca-3b4a-4efc-90f1-49f73662d1a6.svg)](https://wakatime.com/badge/user/71ac0a32-279a-479b-81d5-06cda7102630/project/1feee6ca-3b4a-4efc-90f1-49f73662d1a6)|
-| | | 
-| ***Ubuntu Releases*** |
-| [![][ubuntu22-cis-shield]][ubuntu22-cis]|[![wakatime](https://wakatime.com/badge/user/71ac0a32-279a-479b-81d5-06cda7102630/project/80604ccf-60f7-483c-ac30-47c9551081e2.svg)](https://wakatime.com/badge/user/71ac0a32-279a-479b-81d5-06cda7102630/project/80604ccf-60f7-483c-ac30-47c9551081e2) |
-| [![][ubuntu20-cis-shield]][ubuntu20-cis] | [![wakatime](https://wakatime.com/badge/user/71ac0a32-279a-479b-81d5-06cda7102630/project/16e81ed4-d321-4d6e-8575-ff7411ba23f7.svg)](https://wakatime.com/badge/user/71ac0a32-279a-479b-81d5-06cda7102630/project/16e81ed4-d321-4d6e-8575-ff7411ba23f7)|
-| [![][ubuntu20-stig-shield]][ubuntu20-stig] | [![wakatime](https://wakatime.com/badge/user/71ac0a32-279a-479b-81d5-06cda7102630/project/3dae2036-e7a2-4582-816e-efac860d688d.svg)](https://wakatime.com/badge/user/71ac0a32-279a-479b-81d5-06cda7102630/project/3dae2036-e7a2-4582-816e-efac860d688d)|
-| [![][ubuntu18-cis-shield]][ubuntu18-cis] |[![wakatime](https://wakatime.com/badge/user/71ac0a32-279a-479b-81d5-06cda7102630/project/f3cd716f-758e-466d-b652-a9d583e66a4e.svg)](https://wakatime.com/badge/user/71ac0a32-279a-479b-81d5-06cda7102630/project/f3cd716f-758e-466d-b652-a9d583e66a4e)|
-| [![][ubuntu18-stig-shield]][ubuntu18-stig] | [![wakatime](https://wakatime.com/badge/user/71ac0a32-279a-479b-81d5-06cda7102630/project/bc9e27d4-51b9-4cae-9e1a-dd7d5f8fe883.svg)](https://wakatime.com/badge/user/71ac0a32-279a-479b-81d5-06cda7102630/project/bc9e27d4-51b9-4cae-9e1a-dd7d5f8fe883)|
-| | | 
-| ***RHEL Releases*** |
-| | |
-| [![][rhel8-cis-shield]][rhel8-cis]| [![wakatime](https://wakatime.com/badge/user/71ac0a32-279a-479b-81d5-06cda7102630/project/82ec9036-3267-4674-944f-843284b3e495.svg)](https://wakatime.com/badge/user/71ac0a32-279a-479b-81d5-06cda7102630/project/82ec9036-3267-4674-944f-843284b3e495) |
-
+<div id="badges" align="left">
+  <a href="https://www.linkedin.com/in/ron-mallory-12037a93/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 </br>
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/mrsteve81)](https://git.io/awesome-stats-card)
+
+---
+## :hammer_and_wrench: Tools Skills and Languages:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" title="Ansible" alt="Ansible" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="Terraform" alt="Terraform" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"  title="Github" alt="Github" width="40" height="40"/>&nbsp;
+</div>
+
+---
+
+#### Projects I Am Currently Working On:
+
+| Releases |   |    |
+|---|---|---|
+| | |
+| ***Windows Releases*** | ***Ubuntu Releases*** | ***RHEL Releases*** |
+| [![][windows-2019-cis-shield]][windows-2019-cis]    | [![][ubuntu22-cis-shield]][ubuntu22-cis]    | [![][rhel8-cis-shield]][rhel8-cis] |
+| [![][windows-2019-stig-shield]][windows-2019-stig]  | [![][ubuntu20-cis-shield]][ubuntu20-cis]    |
+| [![][windows-2016-cis-shield]][windows-2016-cis]    | [![][ubuntu20-stig-shield]][ubuntu20-stig]  |
+| [![][windows-2016-stig-shield]][windows-2016-stig]  | [![][ubuntu18-cis-shield]][ubuntu18-cis]    |
+| [![][windows-2010-stig-shield]][windows-2010-stig]  | [![][ubuntu18-stig-shield]][ubuntu18-stig]  |
+| | |
+
+</br>
 
 [windows-2016-cis]: https://github.com/ansible-lockdown/Windows-2016-CIS
 [windows-2016-cis-shield]: https://img.shields.io/badge/Windows--2016--CIS-Repo-blue
@@ -54,13 +61,12 @@
 [rhel8-cis]: https://github.com/ansible-lockdown/RHEL8-CIS
 [rhel8-cis-shield]: https://img.shields.io/badge/Rhel8--CIS-Repo-blue
 
-
 <!--
 **MrSteve81/mrsteve81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ... Pipelines
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
