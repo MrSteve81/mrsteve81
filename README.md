@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=mrsteve81)
 
 <div id="badges" align="left">
-  <a href="https://www.linkedin.com/in/ron-mallory-12037a93/">
+  <a href="https://www.linkedin.com/in/mrstephenwilliams/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
@@ -39,10 +39,14 @@
 
 #### Projects I Am Currently Working On:
 
-| Releases |   |    |
+|<div style="width:400px"></div>Ansible Lockdown Part of the [Lockdown Suite] by|
+| :---: |
+|<a href="https://mindpointgroup.com#GH_LockdownReadMe" target="_blank"><img src="https://assets-global.website-files.com/601959b76833363126385b0d/60195aa15ed9274f67255f9b_MPG-logo-mono-blue.svg" width="200" height="75" alt="MindPoint Group"/></a>|
+
+| ![Discord_active](https://img.shields.io/discord/925818806838919229?logo=discord) | ![Lockdown_followers](https://img.shields.io/github/followers/ansible-lockdown?style=social) | ![Org Stars](https://img.shields.io/github/stars/ansible-lockdown?label=Org%20Stars&style=social)|
 |---|---|---|
 | | |
-| ***Windows*** | ***Ubuntu*** | ***RHEL*** |
+| ***Windows Releases*** | ***Ubuntu Releases*** | ***RHEL Releases*** |
 | [![][windows-2019-cis-shield]][windows-2019-cis]    | [![][ubuntu22-cis-shield]][ubuntu22-cis]    | [![][rhel8-cis-shield]][rhel8-cis] |
 | [![][windows-2019-stig-shield]][windows-2019-stig]  | [![][ubuntu20-cis-shield]][ubuntu20-cis]    |
 | [![][windows-2016-cis-shield]][windows-2016-cis]    | [![][ubuntu20-stig-shield]][ubuntu20-stig]  |
@@ -75,6 +79,14 @@
 [rhel8-cis]: https://github.com/ansible-lockdown/RHEL8-CIS
 [rhel8-cis-shield]: https://img.shields.io/badge/Rhel8--CIS-Repo-blue
 
+<!---
+Following entries used for consistent links across the document
+--->
+[Ansible]: https://www.ansible.com
+[Ansible Galaxy]: https://galaxy.ansible.com/MindPointGroup
+[MindPoint Group]: https://mindpointgroup.com/cybersecurity-consulting/automate/baseline-modernization#GH_LockdownReadMe
+[Community Discussions]: https://discord.io/ansible-lockdown
+[Lockdown Suite]: https://lockdownenterprise.com#GH_LockdownReadMe
 <!--
 **MrSteve81/mrsteve81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
