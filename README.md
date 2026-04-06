@@ -1,10 +1,21 @@
+# Hey, I'm Stephen Williams 👋
 
-# Hey, I'm Steve 👋
-
-Infrastructure & automation engineer focused on security hardening, cloud, and DevOps tooling. Currently building the [Ansible Lockdown](https://lockdownenterprise.com) suite with [MindPoint Group](https://mindpointgroup.com).
+Senior Consultant & Ansible Network Automation Engineer at [Tyto Athene](https://www.tytoathene.com) — part of the **Technology Accelerator Lab for Operational Needs (TALON)**. I design and build automation solutions that accelerate infrastructure delivery, harden systems at scale, and reduce manual operational toil.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrstephenwilliams/)
 [![Discord](https://img.shields.io/discord/925818806838919229?label=Discord&logo=discord&style=flat)](https://discord.io/ansible-lockdown)
+[![Email](https://img.shields.io/badge/Email-Stephen.Williams%40gotyto.com-grey?style=flat&logo=gmail)](mailto:Stephen.Williams@gotyto.com)
+
+---
+
+## 👨‍💻 What I Do
+
+- **Network Automation** — designing and deploying Ansible-driven automation for network configuration, provisioning, and lifecycle management across multi-vendor environments
+- **Security Hardening at Scale** — automated CIS Benchmark and STIG compliance across Windows, RHEL, and Ubuntu using Ansible playbooks and roles
+- **CI/CD Pipelines** — building and maintaining pipelines that test, lint, and deploy infrastructure-as-code changes automatically
+- **Cloud Infrastructure** — provisioning and managing workloads on Azure and AWS using Terraform and Ansible
+- **Infrastructure as Code** — turning manual runbooks into repeatable, version-controlled automation with Ansible, Terraform, and Vagrant
+- **Open Source Maintenance** — core contributor to the [Ansible Lockdown](https://lockdownenterprise.com) project, maintaining security baseline roles used by organisations worldwide
 
 ---
 
@@ -26,7 +37,7 @@ Infrastructure & automation engineer focused on security hardening, cloud, and D
 
 ## 📦 Ansible Lockdown
 
-Security baseline automation roles — CIS Benchmarks & STIG compliance — maintained as part of the [Lockdown Suite](https://lockdownenterprise.com) by [MindPoint Group](https://mindpointgroup.com).
+Security baseline automation roles for CIS Benchmark and STIG compliance, maintained as part of the [Lockdown Suite](https://lockdownenterprise.com) by [MindPoint Group](https://mindpointgroup.com). These roles allow teams to automatically audit and remediate systems against industry-standard security frameworks.
 
 | Platform | CIS | STIG |
 |----------|-----|------|
