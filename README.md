@@ -1,4 +1,3 @@
-
 <!-- Header Banner -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a2a5e,100:00d4ff&height=200&section=header&text=Stephen%20Williams&fontSize=40&fontColor=00d4ff&fontAlignY=35&desc=Senior%20Consultant%20%7C%20Ansible%20Network%20Automation%20Engineer&descColor=a0c4ff&descAlignY=55&descSize=16" width="100%"/>
@@ -83,6 +82,49 @@ Security baseline automation roles for CIS Benchmark and STIG compliance, mainta
 [![Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/mrsteve81?cardType=github&theme=github-dark)](https://git.io/awesome-stats-card)
 
 </div>
+
+---
+
+### 🎧 Beyond the Terminal
+
+When I'm not automating infrastructure, you'll find me deep in the world of electronic music — drum & bass, house, breakbeat, and anything with a good groove. The rhythm of a well-crafted DnB set and the rhythm of a well-built automation pipeline aren't that different — both are all about flow, timing, and not dropping the beat.
+
+![Drum and Bass](https://img.shields.io/badge/Drum%20%26%20Bass-0d1117?style=for-the-badge&logo=soundcloud&logoColor=00d4ff)
+![House](https://img.shields.io/badge/House-0d1117?style=for-the-badge&logo=soundcloud&logoColor=00d4ff)
+![Breakbeat](https://img.shields.io/badge/Breakbeat-0d1117?style=for-the-badge&logo=soundcloud&logoColor=00d4ff)
+![Electronic](https://img.shields.io/badge/Electronic-0d1117?style=for-the-badge&logo=soundcloud&logoColor=00d4ff)
+
+**🏷️ Favourite Labels & More**
+
+A varied taste in collections spanning decades of electronic music — from the golden era of jungle through to modern neurofunk, liquid, techstep, and beyond.
+
+![Hospital Records](https://img.shields.io/badge/Hospital%20Records-0d1117?style=flat-square&logoColor=00d4ff)
+![Full Cycle](https://img.shields.io/badge/Full%20Cycle-0d1117?style=flat-square&logoColor=00d4ff)
+![Dispatch Recordings](https://img.shields.io/badge/Dispatch%20Recordings-0d1117?style=flat-square&logoColor=00d4ff)
+![Good Looking Records](https://img.shields.io/badge/Good%20Looking%20Records-0d1117?style=flat-square&logoColor=00d4ff)
+![Fokuz Recordings](https://img.shields.io/badge/Fokuz%20Recordings-0d1117?style=flat-square&logoColor=00d4ff)
+![Function Records](https://img.shields.io/badge/Function%20Records-0d1117?style=flat-square&logoColor=00d4ff)
+![Evol Intent](https://img.shields.io/badge/Evol%20Intent-0d1117?style=flat-square&logoColor=00d4ff)
+![Frequency Factory](https://img.shields.io/badge/Frequency%20Factory-0d1117?style=flat-square&logoColor=00d4ff)
+![Flexout Audio](https://img.shields.io/badge/Flexout%20Audio-0d1117?style=flat-square&logoColor=00d4ff)
+![Forbidden Society](https://img.shields.io/badge/Forbidden%20Society-0d1117?style=flat-square&logoColor=00d4ff)
+![Ganja Recordings](https://img.shields.io/badge/Ganja%20Recordings-0d1117?style=flat-square&logoColor=00d4ff)
+![Deep Jungle](https://img.shields.io/badge/Deep%20Jungle-0d1117?style=flat-square&logoColor=00d4ff)
+![Influenza Media](https://img.shields.io/badge/Influenza%20Media-0d1117?style=flat-square&logoColor=00d4ff)
+![Intelligent Recordings](https://img.shields.io/badge/Intelligent%20Recordings-0d1117?style=flat-square&logoColor=00d4ff)
+![Invisible Records](https://img.shields.io/badge/Invisible%20Records-0d1117?style=flat-square&logoColor=00d4ff)
+![Crossfire Recordings](https://img.shields.io/badge/Crossfire%20Recordings-0d1117?style=flat-square&logoColor=00d4ff)
+![Division Recordings](https://img.shields.io/badge/Division%20Recordings-0d1117?style=flat-square&logoColor=00d4ff)
+![720 Degrees](https://img.shields.io/badge/720%20Degrees-0d1117?style=flat-square&logoColor=00d4ff)
+![Hangar Records](https://img.shields.io/badge/Hangar%20Records-0d1117?style=flat-square&logoColor=00d4ff)
+![DNAudio](https://img.shields.io/badge/DNAudio-0d1117?style=flat-square&logoColor=00d4ff)
+![& many more...](https://img.shields.io/badge/&%20many%20more...-0a2a5e?style=flat-square&logoColor=00d4ff)
+
+**📻 Listening Now**
+
+[![Bassdrive](https://www.bassdrive.com/images/logo.png)](https://bassdrive.com)
+
+> *"The world's premier drum & bass internet radio station"* — tune in at [bassdrive.com](https://bassdrive.com) | 🎵 [Click here to stream](https://www.bassdrive.com/bassdrive.m3u)
 
 <!-- Footer Banner -->
 <div align="center">
